@@ -1,3 +1,5 @@
+[![React App CI](https://github.com/Madhuu-G/ci-cd-with-actions/actions/workflows/node.js%20.yml/badge.svg)](https://github.com/Madhuu-G/ci-cd-with-actions/actions/workflows/node.js%20.yml)
+
 <h1 align="center">CI/CD with GitHub Actions</h1>
 <h5 align="center">@kmkumaran @kaverma</h3>
 
